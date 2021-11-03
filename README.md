@@ -1,1 +1,1 @@
-# DuckDuckBot
+# DuckDuckGo Discord Bot
